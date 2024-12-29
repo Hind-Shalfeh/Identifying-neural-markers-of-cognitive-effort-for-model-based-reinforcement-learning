@@ -3,7 +3,7 @@
 
 ### Abstract
 
-This study investigates the biological plausibility of cognitive effort in artificial neural networks (ANNs) through a comparative analysis of human and ANN behavior in decision-making tasks. Using tasks adapted from Kool et al. (2017), two types of decision-making strategies—model-based and model-free—are evaluated. The ANNs are trained using the REINFORCE algorithm on custom environments designed to mimic experimental paradigms applied to human participants.
+This study investigates the biological plausibility of cognitive effort in artificial neural networks (ANNs) through a comparative analysis of human and ANN behavior in decision-making tasks. Using tasks adapted from Kool et al. (2017), two types of decision-making strategies—model-based and model-free—are evaluated. The ANNs are trained using the REINFORCE algorithm on custom environments designed to mimic experimental paradigms applied to human participants which are the two-step task and a novel version of the two-step task (kool at al. 2017).
 ---
 
 ## **Repository Overview**
@@ -52,3 +52,7 @@ To install the required libraries, use the `requirements.txt` file provided in t
 
 ```bash
 pip install -r requirements.txt
+
+
+references:
+Kool, W., Gershman, S. J., & Cushman, F. A. (2017). Cost-Benefit Arbitration Between Multiple Reinforcement-Learning Systems. Psychological science, 28(9), 1321–1333. https://doi.org/10.1177/0956797617708288

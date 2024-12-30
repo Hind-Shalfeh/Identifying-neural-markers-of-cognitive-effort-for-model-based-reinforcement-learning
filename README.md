@@ -11,7 +11,7 @@ This study investigates the biological plausibility of cognitive effort in artif
 This repository contains a code, which investigates cognitive effort in artificial neural networks (ANNs). The main components of this repository are as follows:
 
 - **Custom Gymnasium Environments**: These environments are designed to mimic the decision-making tasks used in human participant experiments the first is the original Two-step Task, the second is a novel variant of the two-step task.
-- **Reinforcement Learning**: ANNs are trained using the **REINFORCE algorithm** (code based on code from Christian cancedda)on these environments.
+- **Reinforcement Learning**: ANNs are trained using the **REINFORCE algorithm** (code based on [code](https://github.com/pytorch/examples/blob/main/reinforcement_learning/reinforce.py) from Christian cancedda)on these environments.
 - **Data Analysis**: The repository also includes code for analyzing the network's activities plotting stay probabilities and comparing performance between human and artificial neural networks.
 
 The repository consists of **6 Jupyter notebooks**, each performing different tasks. All notebooks can be run independently, and the required imports and installations are already included within each notebook.

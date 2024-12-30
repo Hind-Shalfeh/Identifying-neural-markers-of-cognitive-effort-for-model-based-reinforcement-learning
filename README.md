@@ -34,7 +34,7 @@ There are no specific folders, but the following files are included in the repos
    - `Summing_up_Activities_NN_on_Original_Task.ipynb`: Summarizes the activities of the network units as it interacts with the environment and plots them.
 
 4. **Data Comparison Notebook:**
-   - `Comparing_human_vs_NN_Preformance.ipynb`: Compares and visualizes the dataframes collected during testing with human choices on the same tasks from (koo et al. 2017). The dataframes generated with this project are available via a [Google Drive link](#https://drive.google.com/drive/folders/1iWpeb9lCzxbTarJf0iIszwamrjgRb9FV?usp=drive_link).
+   - `Comparing_human_vs_NN_Preformance.ipynb`: Compares and visualizes the dataframes collected during testing with human choices on the same tasks from (koo et al. 2017). The dataframes generated with this project are available via a [Google Drive link](https://drive.google.com/drive/folders/1iWpeb9lCzxbTarJf0iIszwamrjgRb9FV?usp=drive_link).
 
 ---
 

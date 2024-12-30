@@ -10,8 +10,8 @@ This study investigates the biological plausibility of cognitive effort in artif
 
 This repository contains a code, which investigates cognitive effort in artificial neural networks (ANNs). The main components of this repository are as follows:
 
-- **Custom Gymnasium Environments**: These environments are designed to mimic the decision-making tasks used in human participant experiments.
-- **Reinforcement Learning**: ANNs are trained using the **REINFORCE algorithm** on these environments.
+- **Custom Gymnasium Environments**: These environments are designed to mimic the decision-making tasks used in human participant experiments the first is the original Two-step Task, the second is a novel variant of the two-step task.
+- **Reinforcement Learning**: ANNs are trained using the **REINFORCE algorithm** (code based on code from Christian cancedda)on these environments.
 - **Data Analysis**: The repository also includes code for analyzing the network's activities plotting stay probabilities and comparing performance between human and artificial neural networks.
 
 The repository consists of **6 Jupyter notebooks**, each performing different tasks. All notebooks can be run independently, and the required imports and installations are already included within each notebook.
@@ -34,7 +34,7 @@ There are no specific folders, but the following files are included in the repos
    - `Summing_up_Activities_NN_on_Original_Task.ipynb`: Summarizes the activities of the network units as it interacts with the environment and plots them.
 
 4. **Data Comparison Notebook:**
-   - `Comparing_human_vs_NN_Preformance.ipynb`: Compares and visualizes the dataframes collected during testing with human choices on the same tasks from (koo et al. 2017). The dataframes generated with this project are available via a [Google Drive link](#add_your_link_here).
+   - `Comparing_human_vs_NN_Preformance.ipynb`: Compares and visualizes the dataframes collected during testing with human choices on the same tasks from (koo et al. 2017). The dataframes generated with this project are available via a [Google Drive link](#https://drive.google.com/drive/folders/1iWpeb9lCzxbTarJf0iIszwamrjgRb9FV?usp=drive_link).
 
 ---
 
